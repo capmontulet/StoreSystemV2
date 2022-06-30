@@ -1,16 +1,5 @@
 import java.util.Scanner;
 
-/**
- * CET - CS Academic Level 3
- * Declaration: I declare that this is my own original work and is free from Plagiarism
- * This is the driver class for Assignment 1.
- * Student Name: Thomas Stanley
- * Student Number: 41037136  
- * Section #: 301
- * Course: CST8130 - Data Structures
- * Professor: James Mwangi PhD. 
- * 
- */
 public class Assignment2 {
 	/**
 	 * This method displays a menu to be used in main
